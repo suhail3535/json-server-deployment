@@ -1,0 +1,26 @@
+{
+  "name": "json-server-deployment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhail3535/json-server-deployment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhail3535/json-server-deployment/issues"
+  },
+  "homepage": "https://github.com/suhail3535/json-server-deployment#readme",
+  "dependencies": {
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.1"
+  }
+}
